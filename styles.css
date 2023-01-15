@@ -42,12 +42,12 @@ body{
     padding: 24px;
 }
 .awesome {
-    font-size: 42px;
+    font-size: 48px;
     font-weight: bolder;
     color: #F9FAF9;
 }
 .little {
-    font-size: 12px;
+    font-size: 18px;
     color: #E5E7EB;
 }
 .signup {
