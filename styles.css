@@ -13,14 +13,17 @@ body{
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
-    padding-left: 85px;
+    padding-left: 65px;
     padding-right: 65px;
     padding-top: 12px;
 }
 .logo {
     display: flex;
+    justify-content: flex-start;
+}
+.logo-img
+{
     width: 30px;
-    height: auto;
 }
 .topright-links {
     gap: 65px;
