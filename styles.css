@@ -58,11 +58,12 @@ body{
 }
 .top-right {
     display: flex;
-    align-items: center;
     background-color: #E5E7EB;
 }
 img {
+    display: flex;
     width: 400px;
+    height: auto;
 }
 .middle {
     display: flex;
